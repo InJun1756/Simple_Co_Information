@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name = "textview_setting">
+        <item name = "android:textSize">17dp</item>
+        <item name = "android:textColor">@color/colorBlack</item>
+    </style>
+
+    <style name = "textview_setting_white_color">
+        <item name = "android:textSize">17dp</item>
+        <item name = "android:textColor">@color/colorWhite</item>
+    </style>
+
+</resources>
